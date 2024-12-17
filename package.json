@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "dns-packet": "^5.6.1"
+  }
+}
